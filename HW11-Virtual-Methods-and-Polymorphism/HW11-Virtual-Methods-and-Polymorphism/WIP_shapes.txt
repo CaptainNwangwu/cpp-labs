@@ -1,0 +1,11 @@
+Square 3 4 1
+Circle 3 5 11
+Circle 3 6 12
+Square 3 7 2
+Circle 3 8 13
+Rectangle 3 10 5 3
+Triangle 3 11 3 5
+Circle 6 4 2
+Triangle 6 10 3 6
+Polygon  40 40  50 60  70 30
+Polygon  60 60  70 80  90 70  100 60  80 50

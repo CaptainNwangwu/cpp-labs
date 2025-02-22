@@ -1,0 +1,44 @@
+{
+  "files": {
+    "main.py": [
+      {
+        "id": "5bebc578-65dd-49a5-9b84-36c6a8bb8652",
+        "line": 22,
+        "version": 994,
+        "index": 775
+      },
+      {
+        "id": "9574e81a-0190-460a-a61e-ce15647c563c",
+        "line": 22,
+        "version": 994,
+        "index": 775
+      }
+    ],
+    "mathFunctions.py": [
+      {
+        "id": "1e8d2a10-b5c8-43df-889f-b866e79272d5",
+        "line": 332,
+        "version": 8568,
+        "index": 14300
+      },
+      {
+        "id": "c8fa1925-34cf-4e82-8c8e-f46b957862f2",
+        "line": 332,
+        "version": 8568,
+        "index": 14300
+      },
+      {
+        "id": "d6c8f92d-7193-42fe-8ac8-b12cd6d29be3",
+        "line": 332,
+        "version": 8568,
+        "index": 14300
+      },
+      {
+        "id": "4317284e-bd8b-4059-baaa-444b2cc04aad",
+        "line": 332,
+        "version": 8568,
+        "index": 14300
+      }
+    ]
+  }
+}
