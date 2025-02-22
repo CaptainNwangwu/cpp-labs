@@ -1,7 +1,3 @@
-Sure! Here’s a **professional, clean, and recruiter-friendly README** for your **C++ Labs Repo**. You can modify it slightly for your other repos if needed.  
-
----
-
 # **C++ Labs – Coursework Assignments**  
 📌 *A collection of C++ lab assignments from my coursework, covering key programming concepts such as object-oriented programming, data structures, file handling, and memory management.*  
 
